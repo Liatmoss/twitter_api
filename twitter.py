@@ -10,7 +10,7 @@ from auth import (
 
 pir = MotionSensor(4)
 
-twitter = Tython(
+twitter = Twython(
     consumer_key,
     consumer_secret,
     access_token,
